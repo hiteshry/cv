@@ -1,0 +1,35 @@
+body{
+    background-color:#EAF6F6;
+}
+h1{
+    color: #66BFBF;
+}
+h3{
+    color: #66BFBF;
+}
+hr{
+   background-color: white; 
+   border-style: dotted none none;
+   border-color: grey;
+   border-width: 10px;
+   height: 0px;
+   width: 30%;
+}
+h1{
+    color: red; 
+    font-size: 50px;
+}
+/*
+img {
+  background-color: red;
+  border-style: dotted;
+}
+*/
+.vitap{
+    background-color:green;
+    height: 80px;
+    
+}
+.person-img{
+    background-color: red;
+}
